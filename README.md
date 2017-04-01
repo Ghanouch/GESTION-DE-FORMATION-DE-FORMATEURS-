@@ -1,0 +1,2 @@
+# GESTION-DE-FORMATION-DE-FORMATEURS-
+Notre programme permet aux acteurs d’automatiser la gestion des formations de formateurs à l’échelle locale, nationale et régionale. Permettant de plus aux administrateurs de contrôler efficacement les formations et d’être en mesure de répondre aux besoins de candidature, Cependant il nous donne aussi la possibilité de consulter un ensemble de statistique momentanée suivant plusieurs critères. Outils :  Language C ( Arbre Binaire de Recherche )  , Fichier Binaire  , Makefile , Sous Linux .
